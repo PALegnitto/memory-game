@@ -1,0 +1,53 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+}
+
+.red-off {
+  background-color: grey;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.blue-off {
+  background-color: grey;
+}
+
+.green {
+  background-color: green;
+}
+
+.green-off {
+  background-color: grey;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.orange-off {
+  background-color: grey;
+}
+
+.purple {
+  background-color: purple;
+
+}
+
+.purple-off {
+  background-color: grey;
+
+}
+
+
